@@ -1,5 +1,4 @@
 # ------------------------------------------------------------------------------
-# Modified based on https://github.com/WongKinYiu/yolov7
 # ------------------------------------------------------------------------------
 # Google utils: https://cloud.google.com/storage/docs/reference/libraries
 
