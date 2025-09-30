@@ -1,7 +1,5 @@
 # ------------------------------------------------------------------------------
 # Modified based on 
-#   https://github.com/CommissarMa/MCNN-pytorch
-#   https://github.com/WongKinYiu/yolov7
 # ------------------------------------------------------------------------------
 from utils.utils import getClusterSubImages
 from mcnn_model import MCNN
