@@ -1,5 +1,4 @@
 # ------------------------------------------------------------------------------
-# Written by HengWeiBin (hengweibin1898@gmail.com)
 # ------------------------------------------------------------------------------
 import numpy as np
 import scipy.ndimage as ndimage
